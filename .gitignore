@@ -733,8 +733,5 @@ MigrationBackup/
 build
 .vscode
 
-lib/*
-!lib/.gitkeep
-
 db/*
 !db/.gitkeep
